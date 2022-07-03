@@ -1,0 +1,1 @@
+document.getElementById("applicant").innerHTML = "Ahmed";
